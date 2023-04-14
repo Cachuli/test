@@ -2,3 +2,4 @@
 #Este es un fichero de prueba
 #Este fichero se ha cambiado
 Este fichero esta modificado
+Feature REQ_002 es el primer fichero del repositorio
