@@ -1,4 +1,3 @@
 
-#Este es un fichero de prueba
-#Este fichero se ha cambiado
-Este fichero esta modificado
+Feature REQ_001 es el Primer fichero del repositorio
+Ahora añadimos código nuevo para una nueva funcionalidad que tenemos que entregar a cliente
